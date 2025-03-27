@@ -17,3 +17,7 @@
 ---
 ## Ano de Ingresso
 - Ingressei no segundo semestre de 2024.
+---
+# Impressões sobre a Universidade
+- Sonho em entrar na UFSM desde que minha irmã ingressou na instituição. Minha primeira impressão foi justamente o que está acontecendo comigo atualmente, um local repleto de oportunidades para desenvolver seus conhecimentos, conhecer pessoas de outros lugares e adquirir habilidades pessoas e interpessoais.
+---
