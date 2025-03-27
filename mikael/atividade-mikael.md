@@ -1,10 +1,11 @@
 # Matérias Favoritas
 - Programação
 - Física
-- Biologia
+- Álgebra Linear e Geometria Analítica
 ---
 # Hobbies Favoritos
 - Ler;
+- Escrever poemas e textos;
 - Assistir filmes e séries de ficção científica, fantasia e suspense;
 - Programar;
 - Jogar RPG;
