@@ -1,5 +1,4 @@
-Filmes;
-Livros;
-Natureza;
-------------------------------------;------------------------------
-Sistema de informacao - UFSM
+C/C++;
+JavaScript;
+HTML5, CSS3;
+Front-End;
